@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url('imagenes/zyro-image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.encabezado{
+    background-color: #b0cfd4;
+}
+
+.portada{
+    height: 351px;
+    width: 250px ;
+}
+
+.imgcard{
+    height: 220px;
+    width: 200px;
+}
+.color {
+    background-color: #e78925;
+}
+.temporadas{
+    height: 969px;
+}
+

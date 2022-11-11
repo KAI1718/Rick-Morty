@@ -1,0 +1,22 @@
+.color{
+    background-color:  #e78925;
+}
+.btn{
+   background-image: url('imagenes/Portalboton.jpg');
+   border-radius: 15px;
+   border: none;
+   height: 60px;
+   width: 120px;
+   color: white;
+    -webkit-text-stroke: .5px black ; 
+ }
+
+.btn2{
+    background-image: url('imagenes/Portalboton.jpg');
+    border-radius: 15px;
+    border: none;
+    height: 60px;
+    width: 120px;
+    color: white;
+    -webkit-text-stroke: .5px black ;
+}
